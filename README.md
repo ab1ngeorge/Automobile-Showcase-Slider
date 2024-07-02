@@ -1,6 +1,8 @@
 # Automobile Showcase Slider
 
 This project demonstrates a responsive hero slider showcasing various Lamborghini models using the Slick carousel library.
+## Demo
+Check out the live demo [here](https://ab1ngeorge.github.io/Automobile-Showcase-Slider/).
 
 ## Features
 
